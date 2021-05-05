@@ -10,4 +10,4 @@ func main() {
 // go vet [FILENAME]: verify warnings on go code
 // go build [FILANAME], then ./FILENAME: Compile and build
 // go run commands.go
-//
+// go get -u [PACKAGE]: Intall package
